@@ -23,9 +23,15 @@ A modern and responsive Flutter news application that fetches real-time news usi
 |---|---|---|
 | <img src="https://github.com/user-attachments/assets/910b894a-238d-4234-81ab-6fa2f51751c7" width="220"/> | <img src="https://github.com/user-attachments/assets/2565e0ae-0922-4ae8-b6a2-a3db35ad5c84" width="220"/> | <img src="https://github.com/user-attachments/assets/a3d3e9c2-3fd7-42b8-8c4b-753f971b1b38" width="220"/> |
 
-| News Details | Search Screen | Drawer |
+| News Details | News Details Screen | News Details Screen |
 |---|---|---|
-| <img src="https://github.com/user-attachments/assets/b9a46240-16c0-4bdc-a1d7-72619e5009a6" width="220"/> | <img src="https://github.com/user-attachments/assets/45f782eb-c050-4d6a-b8b3-5c61ce8ffcfc" width="220"/> | <img src="https://github.com/user-attachments/assets/4f2fc854-1b1f-42fe-b291-5997632ac290" width="220"/> |
+| <img src="https://github.com/user-attachments/assets/b9a46240-16c0-4bdc-a1d7-72619e5009a6" width="220"/> | <img src="https://github.com/user-attachments/assets/2266b09e-7fb3-42aa-b203-8b9cd3377f24" width="220"/> | <img src="https://github.com/user-attachments/assets/2c308b42-833a-4227-bc0f-a2ec96329df3" width="220"/> |
+
+| Search Screen | Drawer |
+|---|---|
+| <img src="https://github.com/user-attachments/assets/45f782eb-c050-4d6a-b8b3-5c61ce8ffcfc" width="220"/> | <img src="https://github.com/user-attachments/assets/4f2fc854-1b1f-42fe-b291-5997632ac290" width="220"/> |
+
+
 
 ---
 
