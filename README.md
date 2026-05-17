@@ -19,8 +19,6 @@ A modern and responsive Flutter news application that fetches real-time news usi
 ---
 
 # 📸 Screenshots
-# 📸 Screenshots
-
 | Splash Screen | Home Screen | Top Headlines |
 |---|---|---|
 | <img src="https://github.com/user-attachments/assets/910b894a-238d-4234-81ab-6fa2f51751c7" width="220"/> | <img src="https://github.com/user-attachments/assets/2565e0ae-0922-4ae8-b6a2-a3db35ad5c84" width="220"/> | <img src="https://github.com/user-attachments/assets/a3d3e9c2-3fd7-42b8-8c4b-753f971b1b38" width="220"/> |
