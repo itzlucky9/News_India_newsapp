@@ -6,7 +6,7 @@ import 'package:news_application/models/news_model.dart';
 
 class NewsService {
 
-  final String apiKey = "pub_4e2d00db05564f7c942f62b831856624";
+  final String apiKey = yourapikey;
 
   
 
