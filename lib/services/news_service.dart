@@ -28,5 +28,3 @@ class NewsService {
   }
 }
 
-
-// https://newsdata.io/api/1/latest?apikey=pub_4e2d00db05564f7c942f62b831856624&country=in,au&language=en&category=breaking,business,education,technology,top&image=1&removeduplicate=1
